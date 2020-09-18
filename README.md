@@ -1,1 +1,3 @@
 # Kill-Count
+
+Insights
